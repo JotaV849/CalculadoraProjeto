@@ -72,11 +72,12 @@ CalculadoraProjeto/
 * ✅ Pull request e merge no GitHub
 * ✅ Clone de outro repositório público (simulando colaboração)
 
----
+--- RELATÓRIO
+https://pucdegoias-my.sharepoint.com/:w:/g/personal/1132024101135_pucgo_edu_br/EUAOfiW-jvlGqxmXxAY2uRgBcqaA4stLPFzll2m7d6E3Cg?e=7EVyQb
 
 ## 📹 Demonstração em vídeo
 
-O vídeo explicando a estrutura, testes e fluxo no GitHub foi gravado e está disponível conforme solicitado na atividade.
+https://drive.google.com/file/d/1UQDNjaDQFqpoDJ_Ua_E-mgJo7lGIIGKt/view?usp=drive_link
 
 ---
 
