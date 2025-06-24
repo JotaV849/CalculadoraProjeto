@@ -55,7 +55,7 @@ CalculadoraProjeto/
 ### Passos:
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/CalculadoraProjeto.git
+   git clone https://github.com/JotaV849/CalculadoraProjeto.git
 ````
 
 2. Abra com o IntelliJ ou VScode
