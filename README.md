@@ -50,7 +50,7 @@ CalculadoraProjeto/
 ### Pré-requisitos:
 - Java 11 ou superior
 - Maven
-- IntelliJ IDEA (recomendado)
+- IntelliJ IDEA ou VScode (recomendado)
 
 ### Passos:
 1. Clone este repositório:
@@ -58,7 +58,7 @@ CalculadoraProjeto/
    git clone https://github.com/SEU_USUARIO/CalculadoraProjeto.git
 ````
 
-2. Abra com o IntelliJ
+2. Abra com o IntelliJ ou VScode
 3. Vá até a classe de testes `CalculadoraTest.java`
 4. Clique com o botão direito e execute os testes
 
